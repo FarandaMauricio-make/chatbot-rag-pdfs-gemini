@@ -1,0 +1,3 @@
+Este projeto demonstra a aplicação de RAG (Retrieval-Augmented Generation).
+O sistema carrega documentos PDF, gera embeddings locais e realiza busca vetorial.
+As respostas são geradas pelo modelo Gemini com base no contexto recuperado.
