@@ -47,3 +47,24 @@ Fluxo do pipeline:
 
 git clone https://github.com/seu-usuario/chatbot-rag-pdfs-gemini.git
 cd chatbot-rag-pdfs-gemini
+
+```
+### 2️⃣ Crie o ambiente virtual
+
+python -m venv venv
+venv\Scripts\activate  # Windows
+
+``
+### 3️⃣ Instale as dependências
+
+pip install -r requirements.txt
+
+``
+### 4️⃣ Configure sua API Key do Gemini
+
+GOOGLE_API_KEY=sua_chave_aqui
+
+``
+5️⃣ Execute o app
+
+streamlit run app.py
