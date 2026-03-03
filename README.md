@@ -1,5 +1,9 @@
 # 🤖📄 Chatbot Inteligente Baseado em PDFs (RAG) com Gemini
 
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Python](https://img.shields.io/badge/python-3.12-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 Projeto desenvolvido como desafio prático para aplicar conceitos de **IA Generativa, Embeddings e Busca Vetorial**, implementando um sistema de **RAG (Retrieval-Augmented Generation)** capaz de responder perguntas com base no conteúdo de documentos PDF.
 
 ---
