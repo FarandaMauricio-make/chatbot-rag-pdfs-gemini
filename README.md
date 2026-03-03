@@ -45,8 +45,6 @@ Fluxo do pipeline:
 
 ## ⚙️ Como Executar o Projeto
 
-### 1️⃣ Clone o repositório
-
 ```bash
 # 1️⃣ Clone o repositório
 git clone https://github.com/seu-usuario/chatbot-rag-pdfs-gemini.git
